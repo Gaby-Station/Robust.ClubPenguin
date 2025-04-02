@@ -1,2 +1,4 @@
-modules: [] # Any needed RobustToolbox modules here.
+modules: # Any needed RobustToolbox modules here.
+- Robust.Client.WebView
 assemblyPrefix: Content # Assembly prefix here.
+defaultWindowTitle: Club Robust
